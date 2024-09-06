@@ -1,4 +1,4 @@
- "use server"
+"use server"
 import { client } from "@/lib/prisma"
 import Stripe from "stripe"
 import { onAuthenticatedUser } from "./auth"

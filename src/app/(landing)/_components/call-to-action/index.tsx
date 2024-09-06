@@ -12,15 +12,15 @@ const CallToAction = (props: Props) => {
         className="text-[35px] md:text-[40px] lg:text-[55px] xl:text-[70px] 2xl:text-[80px] leading-tight font-semibold"
         element="H1"
       >
-        Bringing Communities <br className="md:hidden" /> Together
+        LMS Testing <br className="md:hidden" /> SFH
       </GradientText>
       <p className="text-sm md:text-center text-left text-muted-foreground">
-        Grouple is a vibrant online community platform that empowers
+        Ut nisi nisi aliqua mollit commodo laborum culpa
         <br className="md:hidden" />
-        people to connect, <br className="hidden md:block" /> collaborate, and
-        cultivate meaningful
+        proident esse fugiat, <br className="hidden md:block" /> nostrud,
+        exercitation, pariatur duis labore
         <br className="md:hidden" />
-        relationships
+        aliquip.
       </p>
       <div className="flex md:flex-row flex-col md:justify-center gap-5 md:mt-5 w-full">
         <Button
